@@ -27,10 +27,12 @@ p
 .underline
 {
     text-decoration: underline;
+    cursor: pointer;
 }
 .underlinehover:hover
 {
     text-decoration: underline;
+    cursor: pointer;
 }
 #navbar
 {
@@ -50,27 +52,27 @@ p
     margin: 10px;
     padding-bottom: 10px;
 }
-#navbar a#hotels
+#hotels
 {
     border-bottom: 5px solid red;
 }
-#navbar a#restaurants
+#restaurants
 {
     border-bottom: 5px solid yellow;
 }
-#navbar a#services
+#services
 {
     border-bottom: 5px solid green;
 }
-#navbar a#activites
+#activites
 {
     border-bottom: 5px solid blue;
 }
-#navbar a#plus
+#plus
 {
     border-bottom: 5px solid purple;
 }
-#navbar a#logo
+#logo
 {
     border-bottom: none;
 }
