@@ -1,4 +1,4 @@
-## My Free Ads clone
+## Simple Webpage
 
 Another webpage to solidify my knowledge in basic HTML/CSS, i was able to realise it less than 2 hours.
 
